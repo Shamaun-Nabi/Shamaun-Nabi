@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello,I am Shamaun Nabi (ASHIK) 👋
 
-<!--
-**Shamaun-Nabi/Shamaun-Nabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Front-end Web Development
+- 🌱 I’m currently learning Javascript ES6
+- 👯 I’m looking to collaborate on Youtube
+- 🤔 I’m looking for help with Python for Back-end
+- 💬 Ask me about Html,CSS,Bootstrap,or any TECH related Stuff
+- 📫 How to reach me: Gmail: snashik950@gmail.com
+                       LinkedIn: https://www.linkedin.com/in/shamaun-nabi-3660a8194/
+                       Facebook: https://www.facebook.com/sn.ashik.9
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I almost spend 3 hours Watching Movies Everyday
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
