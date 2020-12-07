@@ -1,4 +1,4 @@
-### Hello,I am Shamaun Nabi (ASHIK) 👋
+### Hello,<i>I am Shamaun Nabi (ASHIK)</i> 👋
 
 
 - 🔭 I’m currently working on Front-end Web Development
