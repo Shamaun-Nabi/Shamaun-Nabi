@@ -12,7 +12,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I almost spend 3 hours Watching Movies Everyday
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shamaun-Nabi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=35B2A4&bg_color=1A1B27">
-
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=Shamaun-Nabi&&show_icons=true&title_color=ffffff&icon_color=E4405F&text_color=35B2A4&bg_color=1A1B27">
