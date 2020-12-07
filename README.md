@@ -18,6 +18,6 @@
 - ⚡ Fun fact: I almost spend 3 hours Watching Movies Everyday
 <img src="https://github-readme-stats.vercel.app/api?username=Shamaun-Nabi&&show_icons=true&title_color=ffffff&icon_color=E4405F&text_color=35B2A4&bg_color=1A1B27">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamaun-Nabi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamaun-Nabi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shamaun-Nabi)  
