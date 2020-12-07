@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with Python for Back-end
 - 💬 Ask me about Html,CSS,Bootstrap,or any TECH related Stuff
-- 📫 How to reach me: <b>Gmail:</b> snashik950@gmail.com <br>
+- 📫 How to reach me:<br><b>Gmail:</b> snashik950@gmail.com <br>
                        <b>LinkedIn:</b> https://www.linkedin.com/in/shamaun-nabi-3660a8194/ <br>
                        <b>Facebook:</b> https://www.facebook.com/sn.ashik.9
 - 😄 Pronouns: He/His
