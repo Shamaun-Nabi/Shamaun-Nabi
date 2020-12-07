@@ -1,8 +1,5 @@
 
-<img src="https://ibb.co/YQfdc5N"/>
-
 ### Hello, I am <i> <h3>👋Shamaun Nabi (ASHIK)</h3></i> 
-
 
 - 🔭 I’m currently working on Front-end Web Development
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
