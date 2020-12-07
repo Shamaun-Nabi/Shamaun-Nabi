@@ -1,4 +1,8 @@
 
+![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C5616AQFs-PFoyUxrvA/profile-displaybackgroundimage-shrink_200_800/0?e=1613001600&v=beta&t=cz9P7M-sL0iSGhPXMjpxLIBjAIavSFKoQOeKRD7dugo)
+### Available On-
+<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
 ### Hello, I am <i> <h3>👋Shamaun Nabi (ASHIK)</h3></i> 
 
 - 🔭 I’m currently working on Front-end Web Development
