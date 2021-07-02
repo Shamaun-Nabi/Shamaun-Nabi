@@ -102,9 +102,11 @@
 <details  align="center" >
 <summary> ⚡GitHub streak stats</summary>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shamaun-Nabi)  
-<img src="https://activity-graph.herokuapp.com/graph?username=Shamaun-Nabi&theme=react-dark&area=true&hide_border=true" width="100%">
-</details>
+
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shamaun-Nabi)  
+
+
+  </details>
   
    <details  align="center" >
 <summary> ⚡Activity graph</summary>
