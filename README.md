@@ -89,7 +89,7 @@
 
  <details>
 <summary>
-  <a href="https://github.com/Shamaun-Nabi/"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
+ ☰ Read More
 </summary>
 
 <details  align="center" >
