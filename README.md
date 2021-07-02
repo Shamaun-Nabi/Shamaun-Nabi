@@ -128,7 +128,7 @@
  <a href="https://twitter.com/NabiShamaun" target="blank">
   <img align="center" alt="Shamaun's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
-   <a href="mailto:snashik950@gmail.com target="blank">
+   <a href="mailto:snashik950@gmail.com" target="blank">
   <img align="center" alt="Shamaun's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /> &nbsp; &nbsp;
  </a>
 </p>
