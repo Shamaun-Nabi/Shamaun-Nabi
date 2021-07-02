@@ -128,6 +128,9 @@
  <a href="https://twitter.com/NabiShamaun" target="blank">
   <img align="center" alt="Shamaun's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
+   <a href="mailto:snashik950@gmail.com target="blank">
+  <img align="center" alt="Shamaun's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /> &nbsp; &nbsp;
+ </a>
 </p>
 <p align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShamaun-Nabi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
 </p>
