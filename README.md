@@ -1,14 +1,14 @@
-![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C5616AQFs-PFoyUxrvA/profile-displaybackgroundimage-shrink_200_800/0/1607336096308?e=1628121600&v=beta&t=BzOr4OCpQ-okZPmh9pQUqUDMjPfUbV0rJcg3a30i3Ys)
-
-![Profile views](https://gpvc.arturio.dev/Shamaun-Nabi)
-
-<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-
   <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+AM+Shamaun+Nabi....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
+![Profile views](https://gpvc.arturio.dev/Shamaun-Nabi)
+
+<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+
   
   <h3 align="center">👋 About Me.. <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="15px"></h3></i> 
 
