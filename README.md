@@ -10,7 +10,7 @@
 
 
   
-  <h3 align="center">👋 About Me.. <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="15px"></h3></i> 
+  <h3 align="center">👋 About Me.. </h3></i> 
 
 - 🔭 I’m currently working on Front-end Web Development
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> ✔️
@@ -19,7 +19,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I almost spend 3 hours Watching Movies Everyday
 
-<h3 align="center">👋 My Skills.. <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="15px"></h3></i> 
+<h3 align="center">👋 My Skills.. </h3></i> 
 
 
  
