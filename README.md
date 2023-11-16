@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-![Profile views](https://gpvc.arturio.dev/Shamaun-Nabi)
+[![Shamaun-Nabi's GitHub | Stats](https://stats.quine.sh/Shamaun-Nabi/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shamaun-Nabi) 
 
 <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 
